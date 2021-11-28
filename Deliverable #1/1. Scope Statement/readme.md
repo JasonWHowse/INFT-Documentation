@@ -1,5 +1,5 @@
-1. Scope Statement
-Before going full speed ahead on gathering requirements, you should establish the boundaries of the software you will build. These boundaries should be documented in a scope statement. Examples of things that establish software boundaries are:
+<h2>1. Scope Statement</h2>
+Before going full speed ahead on gathering requirements, you should establish the boundaries of the software you will build. These boundaries should be documented in a scope statement. Examples of things that establish software boundaries are:<br>
 • What type of platform (Windows, Macintosh, UNIX, etc.) must the software work with?
 
 • Will the software function as a standalone application on a given computer, or will it function over a network connection?

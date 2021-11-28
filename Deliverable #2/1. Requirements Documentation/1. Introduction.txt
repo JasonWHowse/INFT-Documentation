@@ -1,0 +1,9 @@
+1. Purpose:
+
+2. Scope of the Product:
+The iNFT app will generate NFTs (Non-Fungible Tokens) on the Ethereum network.
+
+3. Definitions, acronyms, and abbreviations: //todo: complete this file
+NFT - Non Fungible Tokens
+
+4. 
