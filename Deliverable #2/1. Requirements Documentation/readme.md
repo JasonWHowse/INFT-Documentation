@@ -1,7 +1,7 @@
 <h2>1. Requirements Documentation</h2>
 Detailed requirements are essential for building valid software (i.e., the software the customer wants). Your requirements should be as complete and as detailed as possible. You should organize your requirements in a sensible, hierarchical manner. Each requirement should be given a unique identifier that can be used to trace that requirement through the subsequent phases of the software life cycle. Your requirements document should follow the standard below, which is based on the IEEE/ANSI 830-1998 standard. For your requirements document, you do not need to include appendices (unless you have need to) or an index (an index would be nice, but unless you have a tool to generate an index automatically, this is too time-consuming).
 <h4>1. Introduction</h4>
-1.1 Purpose of the requirements document (You can ignore this one.)
+1.1 Purpose of the requirements document (You can ignore this one.)<br>
 1.2 Scope of the product — just use your scope statement from your project plan here<br>
 1.3 Definitions, acronyms, and abbreviations — list and define all of these that appear in your documentation<br>
 1.4 References — include references for anything that is trademarked or copyrighted here (e.g., game instructions, algorithms such as the LZW compression algorithm for images, etc.)<br>
