@@ -1,0 +1,9 @@
+What was accomplished?
+IPFS get and pull methods developed allowing for all project elements is now easily implemented.
+
+How each group member contributed to the project?
+Jason Implemented IPFS get and pull methods on the front end.  Chris loaded and configured a mac dev environment to git hub.  Chris created a fronted application today that uses the Nft.Storage api.
+  Mat is researching methods for testing using unit tests on c# and solidity contracts.
+
+What problems were encountered?
+Configuring the API for the IPFS push was difficult because of a lack of documentation on how to correctly configure it.  I ultimately figured out how the system was expecting the API info.  I also had difficulties with implementing MIME and getting it to properly recognize different file types but ultimately got it to function.

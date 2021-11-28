@@ -1,0 +1,8 @@
+What was accomplished?
+Set up prototypes of the system in github.
+
+How each group member contributed to the project?
+Mat has been looking into unit testing and integration testing for C# and Solinity.  Chris has been deploying environments to Github.  Jason has been working on integrating IPFS solutions.
+
+What problems were encountered?
+IPFS connections have been somewhat difficult to integrate into a C# project directly.

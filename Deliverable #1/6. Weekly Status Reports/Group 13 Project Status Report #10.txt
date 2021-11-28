@@ -1,0 +1,8 @@
+What was accomplished
+Most of the project has been completed,  The project color scheme has been selected.  The contracts have been worked on (the database).
+
+How each group member contributed to the project.
+Jason has gotten all parts of the c# project online except the ethereum functionality.  Chris worked designing the contract used by the project.  Mat has been working on design elements of the project such as icons and color schemes.
+
+What problems were encountered
+Getting contracts deployed to local ethereum environment.

@@ -1,0 +1,8 @@
+What was accomplished
+Determined precise nature of project and posted about a half complete project to github.  Discussed different tacts and technologies to use.  Scrapped c# project in favor of NodeJS project.
+
+How each group member contributed to the project
+Chris wrote most of the NodeJS project and posted it to github.  Jason and Mat have been looking into the related technologies trying to get up to speed on it.
+
+What problems were encountered
+None in particular.

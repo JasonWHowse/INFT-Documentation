@@ -1,0 +1,6 @@
+1. What was accomplished?
+We have been setting up the dev environment, architecture and planning out scope and continuing to explore the technology.
+2.  How each group member contributed to the project?
+Mat and I have been studying the Ethereum Blockchain and IPFS stuff and Chris has continued setting up the dev environment and architecture and setting up the repository.
+3.  What problems were encountered?
+I had concerns using the actual Ethereum blockchain costs but Chris assured me we can use an online Test Ethereum network that won't have a cost associated with it.

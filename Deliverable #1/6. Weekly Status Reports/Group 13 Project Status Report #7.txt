@@ -1,0 +1,8 @@
+1.  What was accomplished?
+Created a semi functional UI.
+
+2.  How each group member contributed to the project?
+Jason began building the Desktop front end UI portion of the app. Chris built a web based UI front end.
+
+3.  What problems were encountered?
+None
