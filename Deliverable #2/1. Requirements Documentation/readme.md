@@ -14,7 +14,7 @@ Detailed requirements are essential for building valid software (i.e., the softw
 2.5 Assumptions and dependencies — examples of these would be: assumes end user has QuickTime installed; requires Visual Basic runtime to be installed on end user's computer<br>
 <h4>3. Specific requirements</h4>
 Section 3, which deals with the specific requirements, will vary depending on the software being built. I suggest using a simple numbering scheme. Below I show a partial set of requirements for a poker game, using a similar system. These requirements are far from complete - they are simply provided as an example.<br>
-<div style="background-color: yellow;margin-left: 50px;">
+<div style = "background-color:#ffffff; color:#ffffff; padding: 15px; text-align: center;">
 <h5>Playing Cards</h5>
 1.0.0 The game should use a standard deck of 52 playing cards, with no jokers.<br>
 1.1.0 User should be allowed to choose the design used for the card backs from 2 provided designs.<br>
