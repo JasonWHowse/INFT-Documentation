@@ -1,7 +1,11 @@
 CSC 478: Software Engineering Capstone
+
 Group Project Assignment
+
 300 points
+
 Team Guidelines
+
 As a software engineering team, you are responsible for building a functional software application replete with thorough documentation of all of your process activities. In order to successfully accomplish this goal, you will have to work together as a team - everyone must share the workload. No individual team member should have to shoulder the majority of the burden. There are several obstacles you will need to overcome:
 1. As individuals, you likely don’t know each other very well and have never worked together before, so you will have to quickly become acquainted.
 2. As individuals, you are separated geographically, so you will not be able to have face-to-face meetings.
