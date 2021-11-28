@@ -14,7 +14,7 @@ Detailed requirements are essential for building valid software (i.e., the softw
 2.5 Assumptions and dependencies — examples of these would be: assumes end user has QuickTime installed; requires Visual Basic runtime to be installed on end user's computer<br>
 <h4>3. Specific requirements</h4>
 Section 3, which deals with the specific requirements, will vary depending on the software being built. I suggest using a simple numbering scheme. Below I show a partial set of requirements for a poker game, using a similar system. These requirements are far from complete - they are simply provided as an example.<br><br>
-**Playing Cards**<br>
+>**Playing Cards**<br>
 1.0.0 The game should use a standard deck of 52 playing cards, with no jokers.<br>
 1.1.0 User should be allowed to choose the design used for the card backs from 2 provided designs.<br>
 1.1.1 Solid blue design should be provided.<br>
@@ -24,7 +24,7 @@ Section 3, which deals with the specific requirements, will vary depending on th
 **Game types**<br>
 2.0.0 User should be allowed to choose the type of poker game they wish to play.<br>
 2.1.0 The game should allow the user to play 5-card draw, according to standard rules.<br>
-2.2.0 The game should allow the user to play 7-card stud, according to standard rules.<br>
+2.2.0 The game should allow the user to play 7-card stud, according to standard rules.<br>2.2.0 The game should allow the user to play 7-card stud, according to standard rules.<br>
 
 <h4>4. Appendices</h4>
 You don’t need to include appendices unless you feel they are warranted.<br>
