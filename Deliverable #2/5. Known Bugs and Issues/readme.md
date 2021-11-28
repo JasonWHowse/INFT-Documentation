@@ -1,0 +1,2 @@
+5. Known Bugs and Issues
+In the event your finished software still contains one or more bugs that you are aware of, you should provide a list of these bugs, and include any other issues such as performance problems, storage requirement problems, system incompatibility problems, etc.
