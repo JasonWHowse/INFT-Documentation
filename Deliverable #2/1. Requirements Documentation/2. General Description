@@ -1,0 +1,11 @@
+2.1 Product perspective:
+	The iNFT application is an nft minter.  That is, it will create a token on the Ethereum block chain network that points to a particular file on the IFPS network.  This allows users to make a claim on the authenticity of an Item posted to IPFS.  It is effectively a form of copy right.  Another use for this technology is users may mint deeds as a proof of property ownership.  The blockchain provides the integrity of an object while the IPFS network provides the avialabilty of the information.
+	
+2.2 Product functions:
+	The product will allow users with an Ethereum private key to Mint NFTs.  Users will log onto an Ethereum network (currently only the local and Ropsten Test networks are avialiable).  Once the user logs in with their private key the user will be able to veiw a list of all available nfts.  If the user selects any of the nft it will be downloaded to their local machine and the file's path can be copied.  If the file is an approved file type it will be displayed by the app.  The user will also either be able to type a file path into the text box at the top or select a file from the file picker.  If a the file is of an approved type it will display and the user can select the mint button to post the file to IPFS and the Ethereum network
+
+2.3 User characteristics:
+	T
+
+2.4 General constraints:
+2.5 Assumptions and dependencies:
