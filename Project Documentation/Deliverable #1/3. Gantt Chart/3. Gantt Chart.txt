@@ -1,0 +1,5 @@
+3. Gantt Chart
+
+Once you know what project you plan to build, you need to come up with a plan for how you intend to build the software, and how long it will take. Every phase of the software life cycle except the maintenance phase should be included in your chart, although if you use an iterative or incremental process you may have multiple design phases, multiple coding phases, etc. Since you only have about three months to finish the project, most likely you will end up using it all, so the challenge will be in determining how much of the available time to allot to each task.
+
+You should construct a Gantt chart to indicate all the tasks you will perform, and how long you estimate you will spend on each task. Use Microsoft Project for this, if at all possible. It’s an excellent tool for building Gantt charts. If you indicate which tasks are dependent upon which other tasks, it will also calculate the critical path for you. You can also indicate on the chart which team members will be working on which tasks.
