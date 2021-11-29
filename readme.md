@@ -8,7 +8,7 @@
 |5. Configuration Management Plan|10|Mat|No|
 |6. Weekly Status Reports|-|Mat|No|
 |<h2>Deliverable #2: The Programmer’s Manual</h2>||||
-|1. Requirements Documentation|40|Chris/Jason|No|
+|1. Requirements Documentation|40|Chris/Jason|WIP|
 |2. Design Documentation|40|Chris/Jason|No|
 |3. Source Code Documentation|30|Chris/Jason|No|
 |4. Testing Documentation|50||No|
