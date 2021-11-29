@@ -2,13 +2,43 @@ Login Screen
 F1.0.0 User shall be able to log in.
 F1.1.0 User shall be able log into an environment
 F1.1.1 User shall be able to choose an environment
-F1.1.2 The Local environment shall be configured to connect to RPC SERVER HTTP://127.0.0.1:7545 NETWORK ID/Chain ID 5777
+F1.1.2 The Local environment shall be configured to connect to RPC Server HTTP://127.0.0.1:7545 Network ID/Chain ID 5777
+F1.1.3 The Ropsten network shall be configured to connect to RPC Server https://ropsten.infura.io/v3/c403a4afb4f5439588595f1f242e7c75 Network ID/Chain ID 3
+F1.1.4 The Mainnet network shall be configured to connect to the RPC Server https://mainnet.infura.io/v3/c403a4afb4f5439588595f1f242e7c75 Network ID/Chain ID 1
+F1.1.5 If no environment is chosen when the login button is click a toast message shall appear requiring the user to select a toast message
+F1.1.6 On selection of a of an environment the environment details should be set in the system
 F1.2.0 User shall be able log in with a private key hex key.
+F1.2.1 If an environment is selected, no key entered, and the login button is clicked toast message shall appear
+F1.3.0 On successful log on an account balance shall be toasted
+F1.3.1 If the account balance is greater than 0, the message shall be green and show the balance
+F1.3.2 If the account balance is 0 a yellow message shall appear warning the user the account balance is emtpy.
+F1.3.3 The NFT combo box shall be populated with all NFTs associated with the users address.
+F1.3.4 The user's private key shall be held as a variable in memory.
 
 Mint NFT
+F2.0.0 The User shall be able to mint a file.
+F2.1.0 The User shall be able to select a file
+F2.1.1 The User shall be able to write a file name into the text box
+F2.1.2 The User shall be able to pick a file from the file picker
+F2.2.0 The system shall display image files.
+F2.2.1 If the file bytecode type is "webp", "jpeg", "png", "gif", or "jpg" then the file will display
+F2.3.0 The system shall display plain text files.
+F2.3.1 If the file bytecode type is "txt", "html", "xml", "css", "js", "htm", or "json" then the file will display 
+F2.4.0 If there is any text in the file text box the User shall be able to click the mint button
+F2.4.1 If the file does not exists then an error message toast will pop
+F2.4.2 If the file does exists then the file is pinned to the IPFS network.
+F2.4.3 If the file does not successfully pin to the IPFS network, the system shows an error message
+F2.4.4 If the files successfully pins to the IPFS network, the system will take the Hash code generated and mint a token to the Ethereum network.
+F2.4.5 The NFT combobox is then updated.
 
 Get NFT
+F3.0.0 The user shall be able to select any nft from a combo box
 
-Transfer NFT ()
+Transfer NFT (Not Implemented)
+F4.0.0 Not Impletemented
+
+Logout
+F5.0.0 The user shall be able to logout
 
 Error Logging
+F6.0.0 An error log shall be maintained
