@@ -20,6 +20,7 @@ F2.0.0 The User shall be able to mint a file.
 F2.1.0 The User shall be able to select a file
 F2.1.1 The User shall be able to write a file name into the text box
 F2.1.2 The User shall be able to pick a file from the file picker
+F2.1.2 The System shall remove the image or text displayed when the text box is updated
 F2.2.0 The system shall display image files.
 F2.2.1 If the file bytecode type is "webp", "jpeg", "png", "gif", or "jpg" then the file will display
 F2.3.0 The system shall display plain text files.
@@ -33,12 +34,26 @@ F2.4.5 The NFT combobox is then updated.
 
 Get NFT
 F3.0.0 The user shall be able to select any nft from a combo box
+F3.1.0 The system shall display image files.
+F3.1.1 If the file bytecode type is "webp", "jpeg", "png", "gif", or "jpg" then the file will display
+F3.2.0 The system shall display plain text files.
+F3.2.1 If the file bytecode type is "txt", "html", "xml", "css", "js", "htm", or "json" then the file will display 
+F3.3.0 The user shall be able to copy the file path to the clip board.
+
 
 Transfer NFT (Not Implemented)
 F4.0.0 Not Impletemented
 
 Logout
 F5.0.0 The user shall be able to logout
+F5.1.0 The system shall set the account value to null
+F5.2.0 The system shall set user environment to null
+F5.3.0 The system shall set to the generic environment settings
+F5.3.0 The system shall display the Login screen
 
-Error Logging
-F6.0.0 An error log shall be maintained
+Logging
+F6.0.0 The System shall maintain a log of important events
+F6.1.0 The System shall record important events as info events
+F6.1.1
+F6.2.0 The System shall record system errors as errors
+F6.2.1 
