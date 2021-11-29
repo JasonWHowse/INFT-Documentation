@@ -1,0 +1,14 @@
+Login Screen
+F1.0.0 User shall be able to log in.
+F1.1.0 User shall be able log into an environment
+F1.1.1 User shall be able to choose an environment
+F1.1.2 The Local environment shall be configured to connect to RPC SERVER HTTP://127.0.0.1:7545 NETWORK ID/Chain ID 5777
+F1.2.0 User shall be able log in with a private key hex key.
+
+Mint NFT
+
+Get NFT
+
+Transfer NFT ()
+
+Error Logging
