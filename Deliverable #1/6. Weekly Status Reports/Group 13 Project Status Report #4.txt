@@ -1,0 +1,8 @@
+1. What was accomplished?
+We've worked to distribute efforts; Chris has worked to put together repos for our dev environment in ethereum, Jason has begun putting together the frontend framework, and Mat has started code review and is in the early stage of unit testing. That backend framework that Chris put together will give us some reference points as we begin to build out the smart contracts, ethereum network connections, etc. 
+
+2. How each group member contributed to the project?
+Individual contributions were included in #1
+
+3. What problems were encountered?
+Currently we haven't experienced any issues. 
