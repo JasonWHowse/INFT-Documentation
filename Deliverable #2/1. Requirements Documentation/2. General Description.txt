@@ -11,4 +11,4 @@
 	The contract hasn't been posted to the Mainnet due to the cost.  The system does require an active Ethereum network, either a local network with the following properties.  The local address set to: HTTP://127.0.0.1:7545 and Chain ID/Netowrk ID is 5777.  The NFT and INFT contracts would have to be deployed to the network as well.  If an active internet connection exists then the Test network Ropsten can be posted to.  The user would need to have enough ether on their account to make the required transaction.  It should be noted that the larger the file type that has been chosen to mint will take longer to post to the IPFS network and retreive from the IPFS network.
 
 2.5 Assumptions and dependencies:
-	The only dependency for the end user would be that they are running on a Windows 10 platform.  An active internet connection is required to use the Ropsten network.
+	The only dependency for the end user would be that they are running on a Windows 10 platform.  An active internet connection is required to use the Ropsten network. 
