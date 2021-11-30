@@ -1,0 +1,8 @@
+What was accomplished
+The project has all but been complete.
+
+How each group member contributed to the project.
+Jason completed the WPF front end.  Chris all but completed the back end.  Mat created icons and logos associated with the project.
+
+What problems were encountered.
+n/a
