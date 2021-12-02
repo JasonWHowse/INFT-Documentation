@@ -1,8 +1,8 @@
 Login Block
     D1.0.0 User shall be able to log in.
     D1.1.0 The System shall set the UI height and width.
-            D1.1.1 The System shall set the UI height to 160px.
-            D1.1.2 The System shall set the UI width to 400px.
+        D1.1.1 The System shall set the UI height to 160px.
+        D1.1.2 The System shall set the UI width to 400px.
     D1.2.0 User shall be able log into an environment.
         D1.2.1 User shall be able to choose an environment.
         D1.2.2 The System shall configure the local environment to connect to RPC Server HTTP://127.0.0.1:7545 Network ID/Chain ID 5777.
@@ -21,6 +21,7 @@ Login Block
         D1.4.4 The user's private key shall be held as a variable in memory.
 
 Main Block
+    D2.0.0 The System shall instatiate the main block
     D2.1.0 The System shall expand UI height and width.
         D2.1.1 The System shall set the UI height to 450px.
         D2.1.2 The System shall set the UI width to 800px.
