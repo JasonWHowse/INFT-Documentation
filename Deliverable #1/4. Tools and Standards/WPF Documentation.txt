@@ -1,0 +1,21 @@
+IDE: Microsoft Visual Studio Community 2019
+TargetFramework: netcoreapp3.1
+SDK: Microsoft.NET.Sdk.WindowsDesktop
+Image Editor: Adobe Photo Shop Elements 13
+
+Dependency Libraries:(NuGet Packages)
+"Ipfs.Http.Client" Version="0.33.0"
+"Mime" Version="3.2.3"
+"Nethereum.Contracts" Version="4.0.5"
+"Nethereum.Hex" Version="4.1.1"
+"Nethereum.Web3" Version="4.0.5"
+"Newtonsoft.Json" Version="13.0.1"
+"xunit.assert" Version="2.4.1"
+(Check Licenses)
+
+Local Test Environments:
+Truffle v5.4.21 (core: 5.4.21)
+Solidity - ^0.8.0 (solc-js)
+Node v14.17.1
+Web3.js v1.5.3
+Ganache v2.5.4.0
