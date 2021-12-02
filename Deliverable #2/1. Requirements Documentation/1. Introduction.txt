@@ -5,8 +5,21 @@
 	The iNFT app will generate NFTs (Non-Fungible Tokens) on the Ethereum network.
 
 1.3. Glossary: 
-	• NFT - Non Fungible Tokens
-	• IPFS - Interplanetary File System
+	• Dapp - A decentralized application that uses a decentralized network (e.g. Ethereum, Bitcoin).
+	• Blockchain: An immutable, ledger database of transactions distributed across a network.
+	• Crypto wallet: A tool that manages a collection of accounts, public keys, private keys, and interacts with a blockchain network.
+	• Crypto Keys
+		¤ Asymmetric cryptography involves pairs of keys.
+		¤ Generation of Keys depends on the cryptographic algorithm.
+		¤ The algorithm generates a private and public key
+		¤ Depending on your use case, one key signs and encrypts messages, the other key verifies and decrypts messages.
+	• Public address - A hash of the accoutn's public key.  An Ethereum public address is digested from a keccak256 hash function where the public key is the input.
+	• Ethereum - A blockchain platform that facilitates cryptocurrency and smart contracts.
+	• Ether - The cryptocurrency on the ethereum blockchain.
+	• Gas - The fee required to conduct a transaction on the blockchain.
+	• Smart contract - Self-executed code on the blockchain.
+	• NFT - (Non Fungible Tokens) A smart contract that has a standard, transfers owndership, and mints unique tokens of a digital asset.  According to wikipedia.org/wiki/Non-fungible_token, "NFTs are tracked on blockchains to provide the owner with a proof of owndership that is seperate from copyright."
+	• IPFS - (Interplanetary File System) is an immutable file system, once an item is pinned to the IPFS network it cannot be removed.
 
 1.4. References:
 	• IEEE 830-1998
