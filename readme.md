@@ -10,7 +10,7 @@
 |<h2>Deliverable #2: The Programmer’s Manual</h2>||||
 |1. Requirements Documentation|40|Chris/Jason|WIP|
 |2. Design Documentation|40|Chris/Jason|WIP|
-|3. Source Code Documentation|30|Chris/Jason|No|
+|3. Source Code Documentation|30|Chris/Jason|WIP|
 |4. Testing Documentation|50|Mat|No|
 |5. Known Bugs and Issues|5|Chris/Jason|No|
 |<h2>Deliverable #3: The User Documentation</h2>||||
