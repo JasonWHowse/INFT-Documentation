@@ -2,7 +2,7 @@ TODO: Display Title: How to Mint a Token
 
 Select a file by typeing the file path and name into the file text box at the top of the screen or by clicking the browse button next to the file text box and choosing a file from your system.
 
-After the file is selected.  The mint butt will appear as well as displaying the file if it is a specific type such as common plain text files types or common image file types.
+After the file is selected.  The mint button will appear as well as displaying the file if it is a specific type such as common plain text files types or common image file types.
 
 TODO: Display: Main UI - File Picked.png
 
