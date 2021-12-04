@@ -1,0 +1,7 @@
+Title: Main Screen:
+
+TODO: Display: Main UI - Splash.png
+
+From the Main Screen the user is able to complete three important functions.  The user may be able to browse files allowing them to choose which file they would like to mint into an NFT token.  The user may select an already minted item from the combo box and download the file to their system and display it if the file type is eligable.  The user may also log out safely destroying their user account information stored in memory.
+
+TODO: Display: M
