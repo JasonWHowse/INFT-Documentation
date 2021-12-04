@@ -1,7 +1,15 @@
-Title: Main Screen:
+TODO Display: Title: Main Screen:
 
 TODO: Display: Main UI - Splash.png
 
-From the Main Screen the user is able to complete three important functions.  The user may be able to browse files allowing them to choose which file they would like to mint into an NFT token.  The user may select an already minted item from the combo box and download the file to their system and display it if the file type is eligable.  The user may also log out safely destroying their user account information stored in memory.
+From the Main Screen the user is able to complete three important functions.  The user may be able to browse files allowing them to choose which file they would like to mint into an NFT token.  The user may select an already minted item from the combo box and download the file to their system and display the file if the type is eligable.  The user may also log out, safely destroying their user account information stored in memory.
 
-TODO: Display: M
+TODO: Display: 3. Main UI - How to Mint.txt
+
+TODO: Display: 4. Main UI - View Tokens.txt
+
+TODO Display: Title: Logging Out
+
+When the user selects the logout button the system will safely destroy the account information stored on in memory and display the login screen.
+
+TODO: Display: Login UI - Splash.png
