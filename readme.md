@@ -14,7 +14,7 @@
 |4. Testing Documentation|50|Mat|WIP|
 |5. Known Bugs and Issues|5|Chris/Jason|No/Yes|
 |<h2>Deliverable #3: The User Documentation</h2>||||
-|1. User's Manual|35|Jason|No|
+|1. User's Manual|35|Jason|WIP|
 |2. Installation Instructions|5|Jason|No|
 |<h2>Deliverable #4: The Final Product</h2>||||
 |1. Executable|60|Jason|No|
