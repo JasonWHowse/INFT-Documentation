@@ -1,2 +1,6 @@
 Bug List:
 1.  Over non local networks the NFT combo box will not update with the minted tokens right away.  This is due to the minting process.  The combo box will show minted items after the list is polled again.  Polling only currently occurs immediately after the mint occurs and it takes 1-5 minutes to mine the transaction.  The fix for this is to have the list of available tokens polled every minute asyncronously and have an event be thrown when there is a change between what is available and what is shown and to update what is shown.  This change is planned for version 1.1.0.
+
+2.  Envrinomentals are hardcoded and should be using a configuration file in order for users to use local environments. This change is planned for version 1.2.0
+
+3.  The Mainnet is not available due to the cost of deploying the contract.  This change is not planned.
