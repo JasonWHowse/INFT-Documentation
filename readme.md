@@ -17,4 +17,4 @@
 |1. User's Manual|35|Jason|WIP|
 |2. Installation Instructions|5|Jason|No|
 |<h2>Deliverable #4: The Final Product</h2>||||
-|1. Executable|60|Jason|No|
+|1. Executable|60|Jason|Yes|
