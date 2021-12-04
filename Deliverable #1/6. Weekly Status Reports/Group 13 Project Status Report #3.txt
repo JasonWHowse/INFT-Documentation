@@ -1,11 +1,8 @@
 1. What was accomplished?
-
 We have been working collectively on our workflow, project management, version control, and sandbox environment.
 
 2.  How each group member contributed to the project?
-
 Each member has created an account with github.com for our version control and project management. We all have been active in the reposiroty and project managaement boards. Also, we have a repository for our sandbox environment because we want to work on our skills and workflow.
 
 3.  What problems were encountered?
-
 Currently, the git workflow is new to all of us. We have been working researching and using git together, fixing the problem.

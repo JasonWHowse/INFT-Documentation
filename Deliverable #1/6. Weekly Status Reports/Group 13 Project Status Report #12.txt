@@ -1,0 +1,8 @@
+What was accomplished
+The project was completed and submitted including documentation.
+
+How each group member contributed to the project.
+Mat worked on all Deliverables #1 and some Deliverables #2 items.  Jason completed and deployed the desktop apps and completed and compiled many parts of all the Deliverables.  Chris completed the back end and deployed it to production.  He also added documentation to his code.
+
+What problems were encountered
+Determine there was a bug in the desktop app that is imposible to fix before the due date.  

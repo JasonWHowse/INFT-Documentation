@@ -1,6 +1,8 @@
 1. What was accomplished?
 We have begun to learn the technology we need to use in the project and completing administrative tasks to facilitate completing the project such as setting up the dev environment using docker and setting up Jira for issue tracking.
+
 2.  How each group member contributed to the project?
 Chris began Setting up the dev environment to be used to build the project.  Chris also gave me and Mat material to look into to get up to speed with the technology used to build the project.  I created the baseline Jira boards for use in issue tracking etc.  Mat and I are currently studying Docker and IPFS which are related to this project and we are currently unfamiliar.  We are using online tutorials to practice building basic level projects utilizing the basic technologies.
+
 3.  What problems were encountered?
-Currently we haven't experienced any issues.  IAW your notes on the scope statement providing a dummy account won't be an issue.  
+Currently we haven't experienced any issues.  IAW your notes on the scope statement providing a dummy account won't be an issue.
