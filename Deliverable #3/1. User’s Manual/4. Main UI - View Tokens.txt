@@ -1,0 +1,9 @@
+TODO: Display Title: How to View Minted Tokens
+
+TODO: Display: Main UI - Open Combo Box.png
+
+The user may select a NFT token from the combo box under the browse button.  The token will be downloaded to the users system and given a generic name and display that file name.  If that file is of an approved type it will display that file. The Copy to Clipboard button will display.
+
+TODO: Display: Main UI - NFT Image Selected.png
+
+The user can use the Copy to Clipboard button to copy the file path to the user's system clipboard.
