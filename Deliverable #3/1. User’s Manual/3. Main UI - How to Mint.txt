@@ -1,0 +1,13 @@
+TODO: Display Title: How to Mint a Token
+
+Select a file by typeing the file path and name into the file text box at the top of the screen or by clicking the browse button next to the file text box and choosing a file from your system.
+
+After the file is selected.  The mint butt will appear as well as displaying the file if it is a specific type such as common plain text files types or common image file types.
+
+TODO: Display: Main UI - File Picked.png
+
+If the user clicks the mint button the system will attempt to create a token for the file selected.  If the file exists in the system then the system will attempt to pin it to the IPFS network.  If this is successful then the system will create a toast message indicating success.  If any of the steps had failed a toast message will indicate what step it failed to accomplish.  The system will display all currently minted items in the combo box below the browse button.
+
+TODO: Display warning text: The minting process takes some time and during that process the system will be unresponsive.
+
+TODO: Display warning text: The mining required to complete the transaction takes a few minutes.  As such until the transaction is complete and the combo box below the browse button is refreshed.  The combo box will not display the newly minted token
