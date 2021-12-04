@@ -15,3 +15,5 @@ TODO: Display: Login UI - Open Combo Box.png
 TODO: Display Warning Text: "The system will except any hexidecimal string as it is possible to receive funds after logging in and the system can only find logs of accounts that have transactions on the ledger."
 
 After the private key has been entered into the text box and the environment has been chosen. The user may click the Login button.  The Main UI page will display.
+
+TODO: Display: 2. Main UI - Page.txt
