@@ -1,4 +1,4 @@
-1. User’s Manual
+<h2>1. User’s Manual</h2>
 You should assume that your software will be used by someone who has only a general idea of what the software is supposed to do. For example, if you’re building a word processor, a user may know that your software is supposed to allow them to create letters and other such types of documents, but they won’t necessarily know things like changing fonts, numbering pages, or that they can copy and paste sections of text using CTRL-C and CTRL-V.
 1. Your user’s manual should be written so that a user like this should be able to use your software effectively AFTER they have read the user’s manual. Don’t make any assumptions about the intuitive capabilities of the end users.
 2. Although it does require more effort, supplementing the text in your user’s manual with screenshots is highly recommended.
