@@ -7,7 +7,7 @@
 |4. Tools and Standards|5/10|Mat|Yes|
 |5. Configuration Management Plan|10|Mat|Yes|
 |6. Weekly Status Reports|-|Mat|Yes|
-|<h2>Deliverable #2: The Programmer’s Manual</h2>||||
+|<h2>Deliverable #2: The Programmer’s Manual</h2>|||Yes|
 |1. Requirements Documentation|40|Chris/Jason|Yes|
 |2. Design Documentation|40|Chris/Jason|Yes|
 |3. Source Code Documentation|30|Chris/Jason|Yes|
