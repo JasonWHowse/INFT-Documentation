@@ -11,7 +11,7 @@
 |1. Requirements Documentation|40|Chris/Jason|Yes|
 |2. Design Documentation|40|Chris/Jason|Yes|
 |3. Source Code Documentation|30|Chris/Jason|Yes|
-|4. Testing Documentation|50|Mat|WIP|
+|4. Testing Documentation|50|Mat|Yes|
 |5. Known Bugs and Issues|5|Chris/Jason|Yes|
 |<h2>Deliverable #3: The User Documentation</h2>|||Yes|
 |1. User's Manual|35|Jason|Yes|
