@@ -13,8 +13,8 @@
 |3. Source Code Documentation|30|Chris/Jason|No/Yes|
 |4. Testing Documentation|50|Mat|WIP|
 |5. Known Bugs and Issues|5|Chris/Jason|No/Yes|
-|<h2>Deliverable #3: The User Documentation</h2>||||
-|1. User's Manual|35|Jason|WIP|
+|<h2>Deliverable #3: The User Documentation</h2>|||Yes|
+|1. User's Manual|35|Jason|Yes|
 |2. Installation Instructions|5|Mat|Yes|
 |<h2>Deliverable #4: The Final Product</h2>|||Yes|
 |1. Executable|60|Jason|Yes|
