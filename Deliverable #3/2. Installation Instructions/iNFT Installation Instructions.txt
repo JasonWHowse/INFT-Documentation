@@ -1,0 +1,4 @@
+1. Download the Zip file containing the iNFT executable
+2. Extract the Zip file to your local machine
+3. Run the file: iNFT.exe
+ 
