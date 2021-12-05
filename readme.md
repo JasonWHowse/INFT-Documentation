@@ -8,11 +8,11 @@
 |5. Configuration Management Plan|10|Mat|Yes|
 |6. Weekly Status Reports|-|Mat|Yes|
 |<h2>Deliverable #2: The Programmer’s Manual</h2>||||
-|1. Requirements Documentation|40|Chris/Jason|WIP|
-|2. Design Documentation|40|Chris/Jason|No/Yes|
-|3. Source Code Documentation|30|Chris/Jason|No/Yes|
+|1. Requirements Documentation|40|Chris/Jason|Yes|
+|2. Design Documentation|40|Chris/Jason|Yes|
+|3. Source Code Documentation|30|Chris/Jason|Yes|
 |4. Testing Documentation|50|Mat|WIP|
-|5. Known Bugs and Issues|5|Chris/Jason|No/Yes|
+|5. Known Bugs and Issues|5|Chris/Jason|Yes|
 |<h2>Deliverable #3: The User Documentation</h2>|||Yes|
 |1. User's Manual|35|Jason|Yes|
 |2. Installation Instructions|5|Mat|Yes|
